@@ -1,4 +1,4 @@
-Paradoxica Website Project
+#Paradoxica Website Project
 Overview
 The Paradoxica Universica website features:
 
